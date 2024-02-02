@@ -5,4 +5,9 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  fontFamily:{
+    Whitney:["Whitney"],
+    Gintno:["Ginto"],
+    ggSans:["ggSans"],
+  },
 }
