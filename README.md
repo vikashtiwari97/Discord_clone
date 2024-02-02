@@ -18,7 +18,7 @@
 </ul>
 <h2>Usage:</h2>
 <ul>
-<li>Clone the repository: git clone https://github.com/your-username/discord-clone.git</li>
+<li>Clone the repository: git clone https://github.com/vikashtiwari97/Discord_clone.git</li>
 <li>Open the index.html file in your preferred web browser.</li>
 <li>Explore the responsive Discord Clone and interact with the emulated features.</li>
 </ul>
